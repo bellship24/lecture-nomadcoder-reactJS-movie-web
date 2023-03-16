@@ -20,4 +20,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-# */node_modules
+*node_modules*
+
+# etc
+react-for-beginners/node_modules
+react-for-beginners/package*
+
